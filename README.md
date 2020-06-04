@@ -28,6 +28,12 @@ _Dreinummer wrote this code_
 
 _but the envars... he forgot_
 
+_Don't forget to compile_
+
+_Otherwise you won't fly_
+
+##
+
 ```
 FR-M mi--od-d---s/mes--g-:123
 
