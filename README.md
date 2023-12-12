@@ -1,7 +1,7 @@
 # Dreinummers_joke
 
 The old german friend of the scientist, left him an important message in the code. 
-But ohhh... The clue Dockerfile is wet and some letters are gone.
+But ohhh... The clue is wet and some letters are gone.
 Dreinummer says that this poem can help us fix it:
 
 _Mr. Dreinummer can set us free_
