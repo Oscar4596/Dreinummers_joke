@@ -24,6 +24,16 @@ _With the Image they will flee_
 
 ####
 
+_You source to go is the language to go_
+
+_And this source is alpine for sure_
+
+_But if you're not of the amd gang_
+
+_You better look for yours in a bang_
+
+####
+
 _Dreinummer wrote this code_
 
 _but the envars... he forgot_
@@ -35,7 +45,13 @@ _Otherwise you won't fly_
 ##
 
 ```
-FR-M -i--o-ed--u-/m---ag-:--3
+# t̵h̵e̶ ̸m̵e̷s̵s̶a̵g̸e̵ ̵i̶s̶ ̷i̷n̴ ̴t̶h̸e̷ ̶h̵u̸b̵:̴ -i--o-ed--u-/m---ag-:--3
+
+FR-M g---g:-lp--e
+
+E-V ----=-----
+_N- ----=----
+--V ---=--
 
 ---Y ma-n.-o .
 
