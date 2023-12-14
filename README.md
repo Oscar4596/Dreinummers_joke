@@ -12,7 +12,7 @@ _To solve this, fix the Dockerfile_
 
 _And you'll have to do it with style_
 
-#### secret
+####
 
 _mingo, proudly is the first one_
 
