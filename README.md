@@ -37,7 +37,7 @@ _Otherwise you won't fly_
 ```
 FR-M -i--o-ed--u-/m---ag-:--3
 
----Y ma-n .
+---Y ma-n.-o .
 
--U- ./-ai-
+-U- ./-ai--go
 ```
